@@ -87,6 +87,6 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
 
 <table>
   <tr>
-    <td align="center"> <sub><b> https://youtube.com/shorts/46I2yqSNuhE?si=9NXFCTr12a_v_WfA </b></td>
+    <td align="center"> <sub><b> https://youtube.com/shorts/cNSTPe96JVw?si=U7tArYTkF_9oLuaY </b></td>
     </tr>
 </table>
